@@ -1,0 +1,10 @@
+*.py
+*.pyc
+*.txt
+*.csv
+!csvs/scaled_sales.csv
+dailysalesdump*
+dataframes/
+models/
+plots/
+__pycache__/

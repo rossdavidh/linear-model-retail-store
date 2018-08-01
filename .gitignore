@@ -8,3 +8,5 @@ dataframes/
 models/
 plots/
 __pycache__/
+.RData
+.Rhistory

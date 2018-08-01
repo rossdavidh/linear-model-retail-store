@@ -195,7 +195,7 @@ garbage <- dev.off()
 
 
 
-write.csv(so_data,'./csvs/post_clean.csv', row.names=FALSE)
+write.csv(so_data,'./post_clean.csv', row.names=FALSE)
 saveRDS(so_data, file = "./dataframes/post_clean.rds")
 
 
